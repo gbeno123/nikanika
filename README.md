@@ -1,0 +1,2 @@
+# nikanika
+crypto mining
